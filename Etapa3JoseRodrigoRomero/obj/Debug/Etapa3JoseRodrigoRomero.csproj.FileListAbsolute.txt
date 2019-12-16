@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\bin\Debug\Etapa3JoseRodrigoRomero.exe.config
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\bin\Debug\Etapa3JoseRodrigoRomero.exe
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\bin\Debug\Etapa3JoseRodrigoRomero.pdb
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.winInicial.resources
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.Properties.Resources.resources
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.exe
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.pdb
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.WinMenu.resources
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.WinPila.resources
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.WinCola.resources
+C:\Users\PC\source\repos\Etapa3JoseRodrigoRomero\Etapa3JoseRodrigoRomero\obj\Debug\Etapa3JoseRodrigoRomero.WinLista.resources
